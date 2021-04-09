@@ -6,7 +6,8 @@ function preload (){
   
 }
 function setup(){
-  
+   createCanvas(windowWidth, windowHeight);
+
   man = createSprite(200,200,200,200)
   man.addImage(manImage)
   man.scale=2.0;
