@@ -2,7 +2,7 @@ var man,manImage;
 
 function preload (){
   manImage=loadImage("gameOver.png")
-  webSound = loadSound("jump.mp3")
+  webSound = loadSound("birthday song.mp3")
   
 }
 function setup(){
